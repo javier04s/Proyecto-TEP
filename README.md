@@ -270,11 +270,3 @@ El campo `modifiedAt` se actualiza automáticamente cada vez que se modifica una
 ### Identificadores Únicos
 
 Cada nota tiene un identificador único (`id`) generado automáticamente que se utiliza para todas las operaciones que requieren identificación.
-
-## 👥 Autores
-
-Proyecto desarrollado para el curso de Tópicos Especiales de Programación - NRC 15997.
-
-## 📄 Licencia
-
-Este proyecto es privado y está destinado únicamente para fines académicos.
